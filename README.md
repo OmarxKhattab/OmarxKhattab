@@ -80,8 +80,8 @@
 ## ☕ Support My Work
 
 <p align="center">
-  <a href="https://ko-fi.com/omarkhattab">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" alt="Buy Me a Coffee" />
+  <a href="https://ko-fi.com/X8X31F5207">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee" />
   </a>
 </p>
 
